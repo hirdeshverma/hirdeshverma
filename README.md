@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Hirdesh 👋
 
-<!--
-**hirdeshverma/hirdeshverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Python Developer | Building ERP Systems
 
-Here are some ideas to get you started:
+- 🔭 Currently building: **ElectraCore** - Purchase, Sales & Stock Management ERP (Flask + SQLite)
+- 🌱 Tech Stack: Python, Flask, SQL, SQLite, HTML, CSS, Git
+- 💼 Background: 3+ years in Logistics Billing - now transitioning to IT, bringing domain knowledge of billing & inventory
+- 🚀 Deployed Projects:
+    - [Smart Store Manager](https://github.com/hirdeshverma/smart-store-flask) - Live on Render
+    - [Nova Fitness Management](https://github.com/hirdeshverma/Nova-Fitness-Management-System) - Live on PythonAnywhere
+- 📫 Reach me: LinkedIn - Hirdesh Verma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> From billing sheets to building ERPs.
